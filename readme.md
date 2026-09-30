@@ -4,3 +4,5 @@
 - Maîtrise des commandes en CLI
 - Gestion de versions avec Git
 
+## historique des commits 
+* 3c3a119 (HEAD -> main, origin/main) ajout de mon site
